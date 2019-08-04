@@ -1,4 +1,16 @@
-# iCT Gaming Zone
+# Online Battle Ship game
+
+This project is a Battleship Online game system.
+
+**Main functions:**
+- Play Battle Ship online with friends.
+- Online chatting.
+- Friend list management.
+
+
+![Gaming screen](../screenshots/1.png)
+
+![Chat](../screenshots/2.png)
 
 ## 1. Prerequites
 
